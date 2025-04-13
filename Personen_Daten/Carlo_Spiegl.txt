@@ -1,0 +1,7 @@
+Vorname: Carlo
+Name: Spiegl
+Geburtstag: 04 08 2005
+Adresse: Via Nosette 3
+Postleitzahl: 6595
+Ort: Riazzino
+Land: Schweiz

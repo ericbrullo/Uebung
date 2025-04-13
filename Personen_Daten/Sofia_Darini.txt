@@ -1,0 +1,7 @@
+Vorname: Sofia
+Name: Darini
+Geburtstag: 16 04 2008
+Adresse: Piazza Posta Vecchia 7
+Postleitzahl: 6707
+Ort: Iragna
+Land: Schweiz

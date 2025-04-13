@@ -1,0 +1,7 @@
+Vorname: Kerstin
+Name: Brullo
+Geburtstag: 27 06 1971
+Adresse: Hauptstrasse 16A
+Postleitzahl: 01945
+Ort: Grünewald
+Land: Deutschland

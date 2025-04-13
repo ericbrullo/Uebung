@@ -1,0 +1,7 @@
+Vorname: Antonio
+Name: Brullo
+Geburtstag: 20 02 1968
+Adresse: Salita Scaladrella 7
+Postleitzahl: 6582
+Ort: Pianezzo
+Land: Schweiz

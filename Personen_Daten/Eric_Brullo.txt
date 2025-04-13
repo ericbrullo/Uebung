@@ -1,0 +1,7 @@
+Vorname: Eric
+Name: Brullo
+Geburtstag: 04 12 2004
+Adresse: Güterstrasse 3
+Postleitzahl: 4402
+Ort: Frenkendorf
+Land: Schweiz

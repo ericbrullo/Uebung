@@ -1,0 +1,7 @@
+Vorname: Lisa
+Name: Brullo
+Geburtstag: 04 12 2004
+Adresse: Salita Scaladrella 7
+Postleitzahl: 6582
+Ort: Pianezzo
+Land: Schweiz
